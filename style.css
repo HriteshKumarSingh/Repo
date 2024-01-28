@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    height: 40px;
+    width: 160px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 255, 0.555);
+    color: white;
+    font-family: Bree serif;
+    font-size: 20px;
+}
